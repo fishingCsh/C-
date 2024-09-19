@@ -1,0 +1,14 @@
+D:\pliki C#\LottoSim.ConsoleApp\bin\Debug\netcoreapp3.1\LottoSim.ConsoleApp.exe
+D:\pliki C#\LottoSim.ConsoleApp\bin\Debug\netcoreapp3.1\LottoSim.ConsoleApp.deps.json
+D:\pliki C#\LottoSim.ConsoleApp\bin\Debug\netcoreapp3.1\LottoSim.ConsoleApp.runtimeconfig.json
+D:\pliki C#\LottoSim.ConsoleApp\bin\Debug\netcoreapp3.1\LottoSim.ConsoleApp.runtimeconfig.dev.json
+D:\pliki C#\LottoSim.ConsoleApp\bin\Debug\netcoreapp3.1\LottoSim.ConsoleApp.dll
+D:\pliki C#\LottoSim.ConsoleApp\bin\Debug\netcoreapp3.1\LottoSim.ConsoleApp.pdb
+D:\pliki C#\LottoSim.ConsoleApp\obj\Debug\netcoreapp3.1\LottoSim.ConsoleApp.csproj.AssemblyReference.cache
+D:\pliki C#\LottoSim.ConsoleApp\obj\Debug\netcoreapp3.1\LottoSim.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\pliki C#\LottoSim.ConsoleApp\obj\Debug\netcoreapp3.1\LottoSim.ConsoleApp.AssemblyInfoInputs.cache
+D:\pliki C#\LottoSim.ConsoleApp\obj\Debug\netcoreapp3.1\LottoSim.ConsoleApp.AssemblyInfo.cs
+D:\pliki C#\LottoSim.ConsoleApp\obj\Debug\netcoreapp3.1\LottoSim.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\pliki C#\LottoSim.ConsoleApp\obj\Debug\netcoreapp3.1\LottoSim.ConsoleApp.dll
+D:\pliki C#\LottoSim.ConsoleApp\obj\Debug\netcoreapp3.1\LottoSim.ConsoleApp.pdb
+D:\pliki C#\LottoSim.ConsoleApp\obj\Debug\netcoreapp3.1\LottoSim.ConsoleApp.genruntimeconfig.cache

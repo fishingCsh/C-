@@ -1,0 +1,7 @@
+D:\Other files\pliki C#\KalkulatorFigur.ConsoleApp\bin\Debug\KalkulatorFigur.ConsoleApp.exe.config
+D:\Other files\pliki C#\KalkulatorFigur.ConsoleApp\bin\Debug\KalkulatorFigur.ConsoleApp.exe
+D:\Other files\pliki C#\KalkulatorFigur.ConsoleApp\bin\Debug\KalkulatorFigur.ConsoleApp.pdb
+D:\Other files\pliki C#\KalkulatorFigur.ConsoleApp\obj\Debug\KalkulatorFigur.ConsoleApp.csproj.AssemblyReference.cache
+D:\Other files\pliki C#\KalkulatorFigur.ConsoleApp\obj\Debug\KalkulatorFigur.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Other files\pliki C#\KalkulatorFigur.ConsoleApp\obj\Debug\KalkulatorFigur.ConsoleApp.exe
+D:\Other files\pliki C#\KalkulatorFigur.ConsoleApp\obj\Debug\KalkulatorFigur.ConsoleApp.pdb
