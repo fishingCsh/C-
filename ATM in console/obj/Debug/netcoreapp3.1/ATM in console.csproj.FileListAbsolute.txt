@@ -1,0 +1,14 @@
+D:\pliki C#\ATM in console\bin\Debug\netcoreapp3.1\ATM in console.exe
+D:\pliki C#\ATM in console\bin\Debug\netcoreapp3.1\ATM in console.deps.json
+D:\pliki C#\ATM in console\bin\Debug\netcoreapp3.1\ATM in console.runtimeconfig.json
+D:\pliki C#\ATM in console\bin\Debug\netcoreapp3.1\ATM in console.runtimeconfig.dev.json
+D:\pliki C#\ATM in console\bin\Debug\netcoreapp3.1\ATM in console.dll
+D:\pliki C#\ATM in console\bin\Debug\netcoreapp3.1\ATM in console.pdb
+D:\pliki C#\ATM in console\obj\Debug\netcoreapp3.1\ATM in console.csproj.AssemblyReference.cache
+D:\pliki C#\ATM in console\obj\Debug\netcoreapp3.1\ATM in console.GeneratedMSBuildEditorConfig.editorconfig
+D:\pliki C#\ATM in console\obj\Debug\netcoreapp3.1\ATM in console.AssemblyInfoInputs.cache
+D:\pliki C#\ATM in console\obj\Debug\netcoreapp3.1\ATM in console.AssemblyInfo.cs
+D:\pliki C#\ATM in console\obj\Debug\netcoreapp3.1\ATM in console.csproj.CoreCompileInputs.cache
+D:\pliki C#\ATM in console\obj\Debug\netcoreapp3.1\ATM in console.dll
+D:\pliki C#\ATM in console\obj\Debug\netcoreapp3.1\ATM in console.pdb
+D:\pliki C#\ATM in console\obj\Debug\netcoreapp3.1\ATM in console.genruntimeconfig.cache
