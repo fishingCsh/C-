@@ -1,0 +1,14 @@
+D:\pliki C#\papier, kamień, nożyce\bin\Debug\netcoreapp3.1\papier, kamień, nożyce.exe
+D:\pliki C#\papier, kamień, nożyce\bin\Debug\netcoreapp3.1\papier, kamień, nożyce.deps.json
+D:\pliki C#\papier, kamień, nożyce\bin\Debug\netcoreapp3.1\papier, kamień, nożyce.runtimeconfig.json
+D:\pliki C#\papier, kamień, nożyce\bin\Debug\netcoreapp3.1\papier, kamień, nożyce.runtimeconfig.dev.json
+D:\pliki C#\papier, kamień, nożyce\bin\Debug\netcoreapp3.1\papier, kamień, nożyce.dll
+D:\pliki C#\papier, kamień, nożyce\bin\Debug\netcoreapp3.1\papier, kamień, nożyce.pdb
+D:\pliki C#\papier, kamień, nożyce\obj\Debug\netcoreapp3.1\papier, kamień, nożyce.csproj.AssemblyReference.cache
+D:\pliki C#\papier, kamień, nożyce\obj\Debug\netcoreapp3.1\papier, kamień, nożyce.GeneratedMSBuildEditorConfig.editorconfig
+D:\pliki C#\papier, kamień, nożyce\obj\Debug\netcoreapp3.1\papier, kamień, nożyce.AssemblyInfoInputs.cache
+D:\pliki C#\papier, kamień, nożyce\obj\Debug\netcoreapp3.1\papier, kamień, nożyce.AssemblyInfo.cs
+D:\pliki C#\papier, kamień, nożyce\obj\Debug\netcoreapp3.1\papier, kamień, nożyce.csproj.CoreCompileInputs.cache
+D:\pliki C#\papier, kamień, nożyce\obj\Debug\netcoreapp3.1\papier, kamień, nożyce.dll
+D:\pliki C#\papier, kamień, nożyce\obj\Debug\netcoreapp3.1\papier, kamień, nożyce.pdb
+D:\pliki C#\papier, kamień, nożyce\obj\Debug\netcoreapp3.1\papier, kamień, nożyce.genruntimeconfig.cache

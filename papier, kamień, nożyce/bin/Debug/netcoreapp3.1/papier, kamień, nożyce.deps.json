@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "papier, kamień, nożyce/1.0.0": {
+        "runtime": {
+          "papier, kamień, nożyce.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "papier, kamień, nożyce/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
